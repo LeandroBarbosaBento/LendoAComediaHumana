@@ -2,7 +2,7 @@
 layout: post
 title:  "O Baile de Sceaux"
 imgHome: "Imagens_Home/resenhas/002_header_post_Sceaux.jpg"
-date: "2020-10-30 00:00:00"
+date: "2020-11-30 00:00:00"
 descricao: "Ao contrário da jovem Augustina da novela Ao 'Chat-Qui-Pelote', a graciosa Emília não tem intenção de viver uma paixão daquelas que só são vistas nos romances, ela só quer se tornar uma nobre se casando cum um 'par da França'."
 ---
 
