@@ -12,8 +12,6 @@ descricao: "Luísa e Renata são duas amigas que saem de um convento e vivem vid
 
 </figure>
 
->Exemplo de citação (usar o sinal > no começo da linha)
-
 Em 1841 é publicado o romance epistolar Memórias de Duas Jovens Esposas (em francês "Mémoires de deux jeunes mariées") em forma de folhetim no jornal francês La Presse. É o único romance epistolar da Comédia Humana, ou seja, escrito em forma de cartas trocadas entre duas amigas: Luísa de Chaulieu e Renata Maucombe (tradução dos nomes Louise e Renée, respectivamente, da edição brasileira organizada por Paulo Rónai). Luísa e Renata se conheceram em um convento na cidade de Blois, e o romance começa logo após a saída das duas deste lugar pois Luísa vai viver em Paris com a família e Renata vai para a cidade de Provença. Para manter contato, as amigas trocam cartas, que compõem a história. 
 
 Luísa é uma jovem de boa família que recebeu uma grande herança da avó, a princesa de Vaurémont, que a proibiu de professar para poder ficar com a herança, por esse motivo ela sai do convento. Renata, ao contrário, não vem de uma família rica e sai do convento para se casar com o filho de um vizinho da família que está voltando depois de ter sido mandado para o exército de Napoleão. Luísa vive em um mundo de fantasias, anseia viver um amor daqueles que só existem nos romances, completamente distante da vida real, e fica chocada ao saber que Renata se casará com um homem que não ama, e que sequer conhece direito. 
@@ -34,5 +32,5 @@ Renata envia a Luísa uma carta explicando que a suposta amante de Maria-Gastão
 
 Em mais uma história muito interessante Balzac traz para o leitor a temática do amor e do romantismo. É possível ser feliz se entregando a um amor idealizado ou apenas abrindo mão de viver uma paixão ardente em prol de objetivos mais pragmáticos (como os de Renata)? Não existem respostas simples para esse tipo de pergunta. Os sentimentos humanos são muito complexos e a vida inserida na coletividade torna tudo ainda mais delicado. Como formar um bom casamento e ter uma vida feliz? Renata conseguiu alcançar esse objetivo se casando com um homem que não amava e tendo filhos que tornaram sua vida cheia de alegria. Luísa viveu a paixão ardente duas vezes e teve um final amargo em ambas. 
 
-Não dá fazer afirmações simples sobre a complexa psicologia humana, mas é necessário levar em conta que idealizações são apenas isso: algo distante da realidade concreta. As expectativas das personagens idealizadoras de Balzac as levaram a finais infelizes e até trágicos. Primeiro Augustina de Ao 'Chat-Qui-Pelote' e agora Luísa, duas personagens extremamente sonhadoras com destinos muito parecidos. 
+Não dá fazer afirmações simples sobre a complexa psicologia humana, mas é necessário levar em conta que idealizações são apenas isso: algo distante da realidade concreta. As expectativas das personagens idealizadoras de Balzac as levaram a finais infelizes e até trágicos. Primeiro Augustina de [Ao "Chat-Qui-Pelote"]({% post_url 2020-10-28-ao-chat-qui-pelote %}) e agora Luísa, duas personagens extremamente sonhadoras com destinos muito parecidos. 
 
