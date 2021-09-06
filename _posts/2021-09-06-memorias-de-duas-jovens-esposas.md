@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Memórias de Duas Jovens Esposas"
-imgHome: "Imagens_Home/resenhas/002_header_post_Sceaux.jpg"
+imgHome: "/Imagens_Home/resenhas/003_header_post_MemoriasDeDuasJovensEsposas_Blois.jpg" 
 date: "2021-09-06 00:00:00"
 descricao: "Luísa e Renata são duas amigas que saem de um convento e vivem vidas completamente diferentes. Através das cartas trocadas entre elas ficamos sabendo das suas histórias pessoais, com todos os seus altos e baixos. "
 ---
