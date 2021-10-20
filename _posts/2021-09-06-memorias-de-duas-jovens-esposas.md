@@ -7,7 +7,7 @@ descricao: "Luísa e Renata são duas amigas que saem de um convento e vivem vid
 ---
 
 <figure class="image">
-  <img src="{{site.baseurl}}/images_posts/003-memorias/Blois.jpg" alt="DESCRIÇÃO DA IMAGEM">
+  <img src="{{site.baseurl}}/images_posts/003-memorias/Blois.jpg">
   <figcaption>Visão de uma ponte na cidade de Blois, França, na qual se encontra o convento em que as amigas Renata e Luísa se conheceram. Imagem disponível em <a target="_blank" href="https://pixabay.com/pt/photos/fran%c3%a7a-blois-loire-ponte-barco-4667834/">Pixabay</a> acessado em 16/06/2021</figcaption>
 
 </figure>
